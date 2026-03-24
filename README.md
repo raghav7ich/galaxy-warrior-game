@@ -1,5 +1,13 @@
 # Galaxy Warrior - 2D Space Shooter Game
 
+**Project Title:** Galaxy Warrior: 2D Space Shooter Game  
+**Subject:** Computer Graphics and Visualization
+**Prepared By:** Binay Kumar Chand  
+**Roll No.:** L.E.082BCT02 
+**Semester:** BCT-II/I  
+**Submitted To:** ASST.PROF.KOBID KARKEE  
+
+
 Galaxy Warrior is a complete Python Pygame game project that can be opened and run in VS Code. It is designed as a larger practical project for Computer Graphics, Programming, or Multimedia subjects.
 
 ## Features

@@ -2,11 +2,11 @@
 
 ## Title Page
 **Project Title:** Galaxy Warrior: 2D Space Shooter Game  
-**Subject:** Computer Graphics / Programming  
-**Prepared By:** Your Name  
-**Roll No.:** Your Roll Number  
-**Semester:** Your Semester  
-**Submitted To:** Your Teacher Name  
+**Subject:** Computer Graphics and Visualization
+**Prepared By:** Binay Kumar Chand  
+**Roll No.:** L.E.082BCT02 
+**Semester:** BCT-II/I  
+**Submitted To:** ASST.PROF.KOBID KARKEE  
 
 ---
 
